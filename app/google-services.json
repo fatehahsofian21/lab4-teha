@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023445758512",
+    "project_id": "lab4-teha",
+    "storage_bucket": "lab4-teha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023445758512:android:5fae5c0a73692c6b2433f5",
+        "android_client_info": {
+          "package_name": "com.example.lab4_teha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzs16_3TER2UmSz1RFBudFh3oQqH4t9M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
